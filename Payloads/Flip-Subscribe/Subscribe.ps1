@@ -25,7 +25,7 @@
 
 # Enter your YouTube channel URL here, ONLY if you are rehosting this script yourself 
 
-# $channel = "https://www.youtube.com/iamjakoby"
+# $channel = "https://www.youtube.com/@davidferraz9312"
 
 Add-Type -AssemblyName System.Windows.Forms
 $o=New-Object -ComObject WScript.Shell
